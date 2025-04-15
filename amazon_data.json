@@ -1,0 +1,827 @@
+{
+    "status": "OK",
+    "request_id": "0619447e-3625-4a22-ae39-c4b1fb6873b3",
+    "parameters": {
+        "country": "US",
+        "categories": [
+            "eletronics"
+        ],
+        "price_range": "ALL",
+        "discount_range": "ALL",
+        "num_pages": 1
+    },
+    "data": {
+        "deals": [
+            {
+                "deal_id": "c9410f8c",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "TurboTax Home & Business 2024 Tax Software, Federal & State Tax Return [PC/MAC Download]",
+                "deal_photo": "https://m.media-amazon.com/images/I/71b5aAzdXOL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/TurboTax-Business-Software-Federal-Download/dp/B0DHYHPSMC",
+                "canonical_deal_url": "https://www.amazon.com/deal/c9410f8c",
+                "deal_starts_at": "2025-03-30T00:25:00.000Z",
+                "deal_ends_at": "2025-04-16T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "95.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "129.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 26,
+                "savings_amount": {
+                    "amount": "34.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "26% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0DHYHPSMC"
+            },
+            {
+                "deal_id": "ca153321",
+                "deal_type": "LIGHTNING_DEAL",
+                "deal_title": "Instacart $100 Gift Card",
+                "deal_photo": "https://m.media-amazon.com/images/I/51814MzWgYL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Instacart-100-Gift-Card/dp/B0DDSPJ454",
+                "canonical_deal_url": "https://www.amazon.com/deal/ca153321",
+                "deal_starts_at": "2025-04-15T07:30:00.000Z",
+                "deal_ends_at": "2025-04-16T06:45:00.000Z",
+                "deal_price": {
+                    "amount": "85.0",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "100.0",
+                    "currency": "USD"
+                },
+                "savings_percentage": 15,
+                "savings_amount": {
+                    "amount": "15.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "15% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0DDSPJ454"
+            },
+            {
+                "deal_id": "0a301bc1",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Ring Battery Doorbell, Head-to-Toe Video, Live View with Two-Way Talk, and Motion Detection & Alerts (2024 release), Venetian Bronze",
+                "deal_photo": "https://m.media-amazon.com/images/I/41FtCUr5PuL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Ring-Battery-Doorbell-Head-to-Toe-Video-Venetian-Bronze/dp/B0BZWRLRLK",
+                "canonical_deal_url": "https://www.amazon.com/deal/0a301bc1",
+                "deal_starts_at": "2025-04-07T04:00:00.000Z",
+                "deal_ends_at": "2025-04-24T04:00:00.000Z",
+                "deal_price": {
+                    "amount": "54.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "99.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 45,
+                "savings_amount": {
+                    "amount": "45.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "45% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0BZWRLRLK"
+            },
+            {
+                "deal_id": "19876533",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Amazon Fire TV Stick HD (newest model), free and live TV, Alexa Voice Remote, smart home controls, HD streaming",
+                "deal_photo": "https://m.media-amazon.com/images/I/51GHEdUznQL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/amazon-fire-tv-stick-hd/dp/B0CQMRKRV5",
+                "canonical_deal_url": "https://www.amazon.com/deal/19876533",
+                "deal_starts_at": "2025-04-07T15:00:00.000Z",
+                "deal_ends_at": "2025-04-21T15:00:00.000Z",
+                "deal_price": {
+                    "amount": "19.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "34.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 43,
+                "savings_amount": {
+                    "amount": "15.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "43% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0CQMRKRV5"
+            },
+            {
+                "deal_id": "65fa2b76",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Amazon Kindle Scribe (64 GB) - Redesigned display with uniform borders. Now write directly on books and documents. With built-in notebook summarization. Includes Premium Pen - Tungsten",
+                "deal_photo": "https://m.media-amazon.com/images/I/71dzS8HxQFL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Amazon-Kindle-Scribe/dp/B0CZ9T2C6B",
+                "canonical_deal_url": "https://www.amazon.com/deal/65fa2b76",
+                "deal_starts_at": "2025-04-15T00:00:00.000Z",
+                "deal_ends_at": "2025-04-20T16:00:00.000Z",
+                "deal_price": {
+                    "amount": "364.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "449.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 19,
+                "savings_amount": {
+                    "amount": "85.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "19% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0CZ9T2C6B"
+            },
+            {
+                "deal_id": "ee9894a6",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Blink Outdoor 4 (newest model), Wire-free smart security camera, two-year battery life, two-way audio, HD live view, enhanced motion detection, Works with Alexa \u2013 3 camera system",
+                "deal_photo": "https://m.media-amazon.com/images/I/41PtM0usvoL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Blink-Outdoor-4th-Gen-3-Camera/dp/B0B1N5FK48",
+                "canonical_deal_url": "https://www.amazon.com/deal/ee9894a6",
+                "deal_starts_at": "2025-04-08T04:00:00.000Z",
+                "deal_ends_at": "2025-04-21T04:00:00.000Z",
+                "deal_price": {
+                    "amount": "129.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "259.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 50,
+                "savings_amount": {
+                    "amount": "130.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "50% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0B1N5FK48"
+            },
+            {
+                "deal_id": "d314b94a",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Carhartt Men's Loose Fit Heavyweight Short-Sleeve Pocket T-Shirt",
+                "deal_photo": "https://m.media-amazon.com/images/I/71RPinQjeCL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Carhartt-Workwear-Short-Sleeve-T-Shirt-X-Large/dp/B002GHC19I",
+                "canonical_deal_url": "https://www.amazon.com/deal/d314b94a",
+                "deal_starts_at": "2025-04-02T07:00:00.000Z",
+                "deal_ends_at": "2025-04-22T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "14.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "19.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 25,
+                "savings_amount": {
+                    "amount": "5.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "25% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B002GHC19I"
+            },
+            {
+                "deal_id": "2a17a4bf",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Waterpik Aquarius Water Flosser Professional For Teeth, Gums, Braces, Dental Care, Electric Power With 10 Settings, 7 Tips For Multiple Users And Needs, ADA Accepted, White WP-660, Packaging May Vary",
+                "deal_photo": "https://m.media-amazon.com/images/I/71ptfHXGu8L.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Waterpik-Aquarius-Professional-WP-660-Packaging/dp/B00HFQQ0VU",
+                "canonical_deal_url": "https://www.amazon.com/deal/2a17a4bf",
+                "deal_starts_at": "2025-04-03T07:00:00.000Z",
+                "deal_ends_at": "2025-04-17T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "59.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "99.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 40,
+                "savings_amount": {
+                    "amount": "40.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "40% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B00HFQQ0VU"
+            },
+            {
+                "deal_id": "73b3873b",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Grampa's Weeder - The Original Stand Up Weed Puller Tool with Long Handle - Made with Real Bamboo & 4-Claw Steel Head Design - Easily Remove Weeds Without Bending, Pulling, or Kneeling.",
+                "deal_photo": "https://m.media-amazon.com/images/I/718DYJIqv4L.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Grampas-Weeder-CW-01-Original-Remover/dp/B001D1FFZA",
+                "canonical_deal_url": "https://www.amazon.com/deal/73b3873b",
+                "deal_starts_at": "2025-04-14T07:00:00.000Z",
+                "deal_ends_at": "2025-04-21T06:45:00.000Z",
+                "deal_price": {
+                    "amount": "35.12",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "44.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 22,
+                "savings_amount": {
+                    "amount": "9.87",
+                    "currency": "USD"
+                },
+                "deal_badge": "22% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B001D1FFZA"
+            },
+            {
+                "deal_id": "19876533",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Amazon Fire TV Stick 4K Max streaming device (newest model) supports Wi-Fi 6E, free & live TV without cable or satellite",
+                "deal_photo": "https://m.media-amazon.com/images/I/51ZvnM5sALL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/all-new-amazon-fire-tv-stick-4k-max/dp/B0BP9SNVH9",
+                "canonical_deal_url": "https://www.amazon.com/deal/19876533",
+                "deal_starts_at": "2025-04-07T15:00:00.000Z",
+                "deal_ends_at": "2025-04-21T15:00:00.000Z",
+                "deal_price": {
+                    "amount": "39.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "59.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 33,
+                "savings_amount": {
+                    "amount": "20.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "33% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0BP9SNVH9"
+            },
+            {
+                "deal_id": "863d6687",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Ring Floodlight Cam Wired Plus with motion-activated 1080p HD video, White (2021 release)",
+                "deal_photo": "https://m.media-amazon.com/images/I/51TdAAWxGnS.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Ring-Floodlight-Cam-Wired-Plus/dp/B08F6GPQQ7",
+                "canonical_deal_url": "https://www.amazon.com/deal/863d6687",
+                "deal_starts_at": "2025-04-07T04:00:00.000Z",
+                "deal_ends_at": "2025-05-01T04:00:00.000Z",
+                "deal_price": {
+                    "amount": "119.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "179.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 33,
+                "savings_amount": {
+                    "amount": "60.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "33% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B08F6GPQQ7"
+            },
+            {
+                "deal_id": "19876533",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Amazon Fire TV Stick 4K (newest model) with AI-powered Fire TV Search, Wi-Fi 6, stream over 1.5 million movies and shows, free & live TV",
+                "deal_photo": "https://m.media-amazon.com/images/I/51AIvaX964L.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Amazon-Fire-TV-Stick-4K-streaming-device/dp/B0CJM1GNFQ",
+                "canonical_deal_url": "https://www.amazon.com/deal/19876533",
+                "deal_starts_at": "2025-04-07T15:00:00.000Z",
+                "deal_ends_at": "2025-04-21T15:00:00.000Z",
+                "deal_price": {
+                    "amount": "29.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "49.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 40,
+                "savings_amount": {
+                    "amount": "20.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "40% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0CJM1GNFQ"
+            },
+            {
+                "deal_id": "d9393310",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Amazon Fire TV 55\" 4-Series 4K UHD smart TV with Alexa Voice Remote Enhanced, stream live TV without cable",
+                "deal_photo": "https://m.media-amazon.com/images/I/716flIFu1QL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/amazon-fire-tv-55-inch-4-series-4k-smart-tv/dp/B08P3QB66R",
+                "canonical_deal_url": "https://www.amazon.com/deal/d9393310",
+                "deal_starts_at": "2025-04-07T16:00:00.000Z",
+                "deal_ends_at": "2025-04-21T15:55:00.000Z",
+                "deal_price": {
+                    "amount": "309.97",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "519.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 40,
+                "savings_amount": {
+                    "amount": "210.02",
+                    "currency": "USD"
+                },
+                "deal_badge": "40% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B08P3QB66R"
+            },
+            {
+                "deal_id": null,
+                "deal_title": "BISSELL Little Green Multi-Purpose Portable Carpet and Upholstery Cleaner, Car and Auto Detailer, with Exclusive Specialty Tools, Green, 1400B",
+                "deal_photo": "https://m.media-amazon.com/images/I/71V0kbGwsTL.jpg",
+                "deal_url": "https://www.amazon.com/Bissell-Multi-Purpose-Portable-Upholstery-1400B/dp/B0016HF5GK",
+                "deal_starts_at": null,
+                "deal_ends_at": null,
+                "deal_price": {
+                    "amount": "98.75",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "123.59",
+                    "currency": "USD"
+                },
+                "savings_percentage": 20,
+                "savings_amount": {
+                    "amount": "24.84",
+                    "currency": "USD"
+                },
+                "deal_badge": null,
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0016HF5GK"
+            },
+            {
+                "deal_id": "69ffdbc4",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "TOSY Flying Ring - 16 Million Color RGB or 12 LEDs, Super Bright, Lost Mode, Auto Light Up, Easter Basket Stuffers Essentials for Kids/Teens/boy/Girl, Safe & Soft, Waterproof, Lightweight",
+                "deal_photo": "https://m.media-amazon.com/images/I/91HHiCi7wwL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/TOSY-Flying-Ring-Waterproof-Lightweight/dp/B0CMP9M725",
+                "canonical_deal_url": "https://www.amazon.com/deal/69ffdbc4",
+                "deal_starts_at": "2025-04-14T07:00:00.000Z",
+                "deal_ends_at": "2025-04-21T06:45:00.000Z",
+                "deal_price": {
+                    "amount": "15.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "19.0",
+                    "currency": "USD"
+                },
+                "savings_percentage": 16,
+                "savings_amount": {
+                    "amount": "3.01",
+                    "currency": "USD"
+                },
+                "deal_badge": "16% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0CMP9M725"
+            },
+            {
+                "deal_id": "30bf2ede",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Sperax Walking Vibration Pad with APP, 3 in 1 Under Desk Treadmill, 2.5HP Low Noise Walking Treadmill Pad with Remote Control,Portable Treadmills for Home Office",
+                "deal_photo": "https://m.media-amazon.com/images/I/61IPFmLRgSL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Walking-Treadmill-Vibration-Control-Portable/dp/B0DFM5VSWF",
+                "canonical_deal_url": "https://www.amazon.com/deal/30bf2ede",
+                "deal_starts_at": "2025-04-14T07:00:00.000Z",
+                "deal_ends_at": "2025-04-21T06:45:00.000Z",
+                "deal_price": {
+                    "amount": "158.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "209.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 24,
+                "savings_amount": {
+                    "amount": "51.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "24% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0DFM5VSWF"
+            },
+            {
+                "deal_id": "760e4539",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Amazon Fire HD 10 tablet (newest model) built for relaxation, 10.1\" vibrant Full HD screen, octa-core processor, 3 GB RAM, 32 GB, Black",
+                "deal_photo": "https://m.media-amazon.com/images/I/71t3j00C-yL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Amazon_Fire_HD_10/dp/B0BHZT5S12",
+                "canonical_deal_url": "https://www.amazon.com/deal/760e4539",
+                "deal_starts_at": "2025-04-13T16:00:00.000Z",
+                "deal_ends_at": "2025-04-29T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "94.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "139.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 32,
+                "savings_amount": {
+                    "amount": "45.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "32% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0BHZT5S12"
+            },
+            {
+                "deal_id": "1637743f",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Dyson V11 Origin Cordless Vacuum, Nickel/Blue",
+                "deal_photo": "https://m.media-amazon.com/images/I/61GyMoWY2jL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Dyson-Origin-Cordless-Vacuum-Nickel/dp/B00FZPRUTY",
+                "canonical_deal_url": "https://www.amazon.com/deal/1637743f",
+                "deal_starts_at": "2025-04-06T07:00:00.000Z",
+                "deal_ends_at": "2025-04-27T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "469.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "569.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 18,
+                "savings_amount": {
+                    "amount": "100.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "18% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B00FZPRUTY"
+            },
+            {
+                "deal_id": "3d0e4b14",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "JBL Go 4 - Ultra-Portable, Waterproof and Dustproof Bluetooth Speaker, Big Pro Sound with Punchy bass, 7-Hour Built-in Battery, Made in Part with Recycled Materials (Black)",
+                "deal_photo": "https://m.media-amazon.com/images/I/71kzInVwzgL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/JBL-Ultra-Portable-Waterproof-Dustproof-Built/dp/B0CTNWBT1Z",
+                "canonical_deal_url": "https://www.amazon.com/deal/3d0e4b14",
+                "deal_starts_at": "2025-04-14T07:00:00.000Z",
+                "deal_ends_at": "2025-04-21T03:55:00.000Z",
+                "deal_price": {
+                    "amount": "39.95",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "49.95",
+                    "currency": "USD"
+                },
+                "savings_percentage": 20,
+                "savings_amount": {
+                    "amount": "10.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "20% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0CTNWBT1Z"
+            },
+            {
+                "deal_id": "aa085a2f",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Tork Multifold Hand Towel, Natural, 100% recycled, FSC certified, Compatible with H2 Dispensers, 16 packs x 250 sheets (MK520A)",
+                "deal_photo": "https://m.media-amazon.com/images/I/71XQx-nmweL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Tork-Universal-MK520A-Multifold-Certified/dp/B013SX3T08",
+                "canonical_deal_url": "https://www.amazon.com/deal/aa085a2f",
+                "deal_starts_at": "2025-04-01T07:00:00.000Z",
+                "deal_ends_at": "2025-04-16T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "25.0",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "40.65",
+                    "currency": "USD"
+                },
+                "savings_percentage": 38,
+                "savings_amount": {
+                    "amount": "15.65",
+                    "currency": "USD"
+                },
+                "deal_badge": "38% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B013SX3T08"
+            },
+            {
+                "deal_id": "863d6687",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Ring Spotlight Cam Plus, Battery | Two-Way Talk, Color Night Vision, and Security Siren (2022 release) - White",
+                "deal_photo": "https://m.media-amazon.com/images/I/61ZtK6Lp4NL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Ring-Spotlight-Cam-Plus-Battery-White/dp/B09JZ5BG26",
+                "canonical_deal_url": "https://www.amazon.com/deal/863d6687",
+                "deal_starts_at": "2025-04-07T04:00:00.000Z",
+                "deal_ends_at": "2025-05-01T04:00:00.000Z",
+                "deal_price": {
+                    "amount": "119.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "149.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 20,
+                "savings_amount": {
+                    "amount": "30.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "20% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B09JZ5BG26"
+            },
+            {
+                "deal_id": "e717e25c",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Roku Smart TV \u2013 43-Inch Select Series 4K HDR RokuTV with Roku Enhanced Voice Remote, Brilliant 4K Picture, Automatic Brightness, & Seamless Streaming \u2013 Live Local News, Sports, Family Entertainment",
+                "deal_photo": "https://m.media-amazon.com/images/I/71-Gi4a4uQL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Roku-Brilliant-Automatic-Brightness-Streaming/dp/B0CLFSWK9V",
+                "canonical_deal_url": "https://www.amazon.com/deal/e717e25c",
+                "deal_starts_at": "2025-04-14T07:00:00.000Z",
+                "deal_ends_at": "2025-04-28T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "218.0",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "249.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 13,
+                "savings_amount": {
+                    "amount": "31.99",
+                    "currency": "USD"
+                },
+                "deal_badge": "13% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0CLFSWK9V"
+            },
+            {
+                "deal_id": "0ccd5650",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Samsung Galaxy Tab A9+ Plus 11\u201d 64GB Android Tablet, Big Screen, Quad Speakers, Upgraded Chipset, Multi Window Display, Slim, Light, Durable, Kids Friendly Design, US Version, 2024, Silver",
+                "deal_photo": "https://m.media-amazon.com/images/I/61h+qeD-qfL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/SAMSUNG-Android-Speakers-Upgraded-Chipset/dp/B0CLFH7CCV",
+                "canonical_deal_url": "https://www.amazon.com/deal/0ccd5650",
+                "deal_starts_at": "2025-04-15T03:00:00.000Z",
+                "deal_ends_at": "2025-04-28T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "159.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "219.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 27,
+                "savings_amount": {
+                    "amount": "60.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "27% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0CLFH7CCV"
+            },
+            {
+                "deal_id": "2a9b9a76",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "ROVE R2-4K DUAL Dash Cam Front and Rear, STARVIS 2 Sensor, FREE 128GB Card Included, 5G WiFi - up to 20MB/s Fastest Download Speed with App, 4K 2160P/FHD Dash Camera for Cars, 3\" IPS, 24H Parking Mode",
+                "deal_photo": "https://m.media-amazon.com/images/I/81gIn+MXtyL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/ROVE-R2-4K-DUAL-STARVIS-Included/dp/B0D6J5B98H",
+                "canonical_deal_url": "https://www.amazon.com/deal/2a9b9a76",
+                "deal_starts_at": "2025-04-14T07:00:00.000Z",
+                "deal_ends_at": "2025-04-21T06:45:00.000Z",
+                "deal_price": {
+                    "amount": "119.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "199.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 40,
+                "savings_amount": {
+                    "amount": "80.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "40% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0D6J5B98H"
+            },
+            {
+                "deal_id": "0a301bc1",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Ring Battery Doorbell Plus (newest model) | Head-to-Toe HD+ Video, motion detection & alerts, and Two-Way Talk",
+                "deal_photo": "https://m.media-amazon.com/images/I/61MBp1T6huL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/All-new-Ring-Battery-Doorbell-detection/dp/B09WZBPX7K",
+                "canonical_deal_url": "https://www.amazon.com/deal/0a301bc1",
+                "deal_starts_at": "2025-04-07T04:00:00.000Z",
+                "deal_ends_at": "2025-04-24T04:00:00.000Z",
+                "deal_price": {
+                    "amount": "99.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "149.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 33,
+                "savings_amount": {
+                    "amount": "50.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "33% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B09WZBPX7K"
+            },
+            {
+                "deal_id": "03a21c9d",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Bazooka Candy Variety Pack: 18 Count Assorted Lollipops, Ring Pop, Push Pop, Baby Bottle Pop, Juicy Drop - Candy for Easter Baskets, Gifts, Party Favors, Birthdays, Celebrations",
+                "deal_photo": "https://m.media-amazon.com/images/I/91x3uugh9EL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Bazooka-Lollipop-Variety-Assorted-Flavors/dp/B01D0O11B4",
+                "canonical_deal_url": "https://www.amazon.com/deal/03a21c9d",
+                "deal_starts_at": "2025-04-11T07:00:00.000Z",
+                "deal_ends_at": "2025-04-20T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "13.57",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "15.97",
+                    "currency": "USD"
+                },
+                "savings_percentage": 15,
+                "savings_amount": {
+                    "amount": "2.4",
+                    "currency": "USD"
+                },
+                "deal_badge": "15% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B01D0O11B4"
+            },
+            {
+                "deal_id": "5640fe07",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "SAMSUNG 85-Inch Class QLED 4K Q60D Series Quantum HDR Smart TV w/Object Tracking Sound Lite, Motion Xcelerator, Slim Design, Gaming Hub, Alexa Built-in (QN85Q60D, 2024 Model)",
+                "deal_photo": "https://m.media-amazon.com/images/I/61gzErufqiL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/SAMSUNG-85-Inch-Tracking-Xcelerator-QN85Q60D/dp/B0CV9LXH45",
+                "canonical_deal_url": "https://www.amazon.com/deal/5640fe07",
+                "deal_starts_at": "2025-04-14T07:00:00.000Z",
+                "deal_ends_at": "2025-04-21T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "997.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "1697.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 41,
+                "savings_amount": {
+                    "amount": "700.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "41% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0CV9LXH45"
+            },
+            {
+                "deal_id": "78031240",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "GABRYLLY Ergonomic Office Chair, High Back Home Desk Chair with Headrest, Flip-Up Arms, 90-120\u00b0 Tilt Lock and Wide Cushion, Big and Tall Mesh Chairs for Man Woman, Black Task Chair",
+                "deal_photo": "https://m.media-amazon.com/images/I/91TWt3heLrL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/GABRYLLY-Ergonomic-Headrest-Flip-Up-90-120%C2%B0/dp/B07Y8BXBX8",
+                "canonical_deal_url": "https://www.amazon.com/deal/78031240",
+                "deal_starts_at": "2025-04-14T07:00:00.000Z",
+                "deal_ends_at": "2025-04-21T06:45:00.000Z",
+                "deal_price": {
+                    "amount": "188.0",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "269.5",
+                    "currency": "USD"
+                },
+                "savings_percentage": 30,
+                "savings_amount": {
+                    "amount": "81.5",
+                    "currency": "USD"
+                },
+                "deal_badge": "30% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B07Y8BXBX8"
+            },
+            {
+                "deal_id": "3e0913c6",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Bissell Cleanview XR Pet 300W Cordless Vacuum with Removable Battery, 3797V",
+                "deal_photo": "https://m.media-amazon.com/images/I/616khde2emL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Bissell-Cleanview-Cordless-Removable-3797V/dp/B0C544R2J7",
+                "canonical_deal_url": "https://www.amazon.com/deal/3e0913c6",
+                "deal_starts_at": "2025-03-29T07:00:00.000Z",
+                "deal_ends_at": "2025-04-27T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "179.0",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "229.0",
+                    "currency": "USD"
+                },
+                "savings_percentage": 22,
+                "savings_amount": {
+                    "amount": "50.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "22% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0C544R2J7"
+            },
+            {
+                "deal_id": "2721a18b",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "TOSY Magnet Pyramid Stone - 1 Cube Transforms into 1 Billion Shapes, Easter Basket Stuffers Essentials for Kids/Teens, 243 Rare Earth Magnets, Holographic Design, Puzzle/STEAM Toy",
+                "deal_photo": "https://m.media-amazon.com/images/I/91cta-uYUdL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/TOSY-Magnet-Pyramid-Stone-Holographic/dp/B0DMSVXBDV",
+                "canonical_deal_url": "https://www.amazon.com/deal/2721a18b",
+                "deal_starts_at": "2025-04-14T07:00:00.000Z",
+                "deal_ends_at": "2025-04-21T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "23.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "29.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 20,
+                "savings_amount": {
+                    "amount": "6.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "20% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0DMSVXBDV"
+            }
+        ],
+        "total_deals": 500,
+        "country": "US",
+        "domain": "www.amazon.com"
+    }
+}
